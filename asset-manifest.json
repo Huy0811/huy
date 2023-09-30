@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/huy/static/css/main.9ad2f0c2.css",
+    "main.js": "/huy/static/js/main.4a704fde.js",
+    "static/js/787.b445b07b.chunk.js": "/huy/static/js/787.b445b07b.chunk.js",
+    "static/media/logo.svg": "/huy/static/media/logo.b2e5a01e505f739f1484b881277d5186.svg",
+    "index.html": "/huy/index.html",
+    "main.9ad2f0c2.css.map": "/huy/static/css/main.9ad2f0c2.css.map",
+    "main.4a704fde.js.map": "/huy/static/js/main.4a704fde.js.map",
+    "787.b445b07b.chunk.js.map": "/huy/static/js/787.b445b07b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ad2f0c2.css",
+    "static/js/main.4a704fde.js"
+  ]
+}
